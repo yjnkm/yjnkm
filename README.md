@@ -5,8 +5,9 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/yjnkm?style=social">
 <img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/last-update/yjnkm">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/><img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/><img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white"/>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjnkm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
